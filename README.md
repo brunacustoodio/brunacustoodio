@@ -8,10 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacustoodio/)
 
 📊 **Junior Data Analyst** na Tech For Humans, com foco em analytics engineering e pipelines de dados.<br/>
-🎓 Bacharelanda em Engenharia da Computação pela **UNIFEI** (2021 – dez/2025).<br/>
+🎓 Bacharelanda em Engenharia da Computação pela **UNIFEI** (2021 – 2026).<br/>
 🐍 Experiência com SQL, Python, Databricks, Apache Spark e Power BI, construindo processos de ETL e dashboards para apoiar decisões de negócio.<br/>
 🌱 Também fui membro do **PETTEC** (Programa de Educação Tutorial em Tecnologia para Eletrônica e Computação), onde já ensinei Python, desenvolvi um app em React Native e um projeto de IoT com ESP32/LoRa.<br/>
-📍 Itajubá, Minas Gerais, Brasil.
 
 <br clear="right"/>
 
@@ -31,16 +30,6 @@ Ensino de Python para graduandos, desenvolvimento de app mobile (React Native), 
 **Dados & Analytics:** SQL, Python, Databricks, Apache Spark, Power BI, ETL, Data Modeling, Data Engineering, PostgreSQL<br/>
 **Dev & Colaboração:** Git, Azure DevOps, Jira, React Native, IoT (ESP32, LoRa)<br/>
 **Linguagens (projetos acadêmicos):** Java, C, C++
-
-## 📈 GitHub Analytics
-
-![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunacustoodio&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunacustoodio&layout=compact)
-
-🏆 [![trophy](https://github-profile-trophy.vercel.app/?username=brunacustoodio)](https://github.com/brunacustoodio)
-
-![Visitantes](https://komarev.com/ghpvc/?username=brunacustoodio&color=blue&style=flat)
 
 ## 📚 Projetos Acadêmicos
 
