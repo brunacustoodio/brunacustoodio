@@ -1,4 +1,11 @@
-# 👋 Olá, eu sou a Bruna Custódio!
+# 👋 Olá, eu sou a Bruna Custódio Alves!
+
+<img align="right" width="320" src="assets/banner.png" alt="Ilustração isométrica de laptops conectados a um servidor de dados" />
+<sub><a href="https://www.freepik.com">Designed by fullvector / Freepik</a></sub>
+
+```python
+print("Hello, world!")
+```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Bruna+Cust%C3%B3dio;Data+Analyst+%7C+BI+%7C+Python;Sempre+aprendendo+algo+novo!)
 
@@ -10,6 +17,8 @@
 - 🐍 Experiência com SQL, Python, Databricks, Apache Spark e Power BI, construindo processos de ETL e dashboards para apoiar decisões de negócio.
 - 🌱 Também fui membro do **PETTEC** (Programa de Educação Tutorial em Tecnologia para Eletrônica e Computação), onde já ensinei Python, desenvolvi um app em React Native e um projeto de IoT com ESP32/LoRa.
 - 📍 Itajubá, Minas Gerais, Brasil.
+
+<br clear="right"/>
 
 ## 💼 Experiência
 
@@ -62,4 +71,4 @@
 - 📧 Email: [bruna.custo27@gmail.com](mailto:bruna.custo27@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/brunacustoodio](https://www.linkedin.com/in/brunacustoodio/)
 
-> "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original." – Albert Einstein
+> "Sem dados, você é só mais uma pessoa com uma opinião." – W. Edwards Deming
