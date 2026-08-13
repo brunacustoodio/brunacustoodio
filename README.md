@@ -1,18 +1,25 @@
 # 👋 Olá, eu sou a Bruna Custódio!
 
-📊 **Junior Data Analyst** na Tech For Humans, com foco em analytics engineering e pipelines de dados.
-🎓 Bacharelanda em Engenharia da Computação pela **UNIFEI** (2021 – dez/2025).
-🐍 Experiência com SQL, Python, Databricks, Apache Spark e Power BI, construindo processos de ETL e dashboards para apoiar decisões de negócio.
-🌱 Também fui membro do **PETTEC** (Programa de Educação Tutorial em Tecnologia para Eletrônica e Computação), onde já ensinei Python, desenvolvi um app em React Native e um projeto de IoT com ESP32/LoRa.
-📍 Itajubá, Minas Gerais, Brasil.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Bruna+Cust%C3%B3dio;Data+Analyst+%7C+BI+%7C+Python;Sempre+aprendendo+algo+novo!)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruna.custo27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacustoodio/)
+
+- 📊 **Junior Data Analyst** na Tech For Humans, com foco em analytics engineering e pipelines de dados.
+- 🎓 Bacharelanda em Engenharia da Computação pela **UNIFEI** (2021 – dez/2025).
+- 🐍 Experiência com SQL, Python, Databricks, Apache Spark e Power BI, construindo processos de ETL e dashboards para apoiar decisões de negócio.
+- 🌱 Também fui membro do **PETTEC** (Programa de Educação Tutorial em Tecnologia para Eletrônica e Computação), onde já ensinei Python, desenvolvi um app em React Native e um projeto de IoT com ESP32/LoRa.
+- 📍 Itajubá, Minas Gerais, Brasil.
 
 ## 💼 Experiência
 
-- **Tech For Humans** — *Junior Data Analyst* (mar/2025 – atual)
+- **Tech For Humans** — *Junior Data Analyst* (mar/2025 – atual)  
   ETL, SQL e Python para processamento de dados, dashboards e KPIs em Power BI, Databricks/Apache Spark para dados em larga escala, cerimônias ágeis com Azure DevOps e Jira.
-- **Tech For Humans** — *Data Analyst Intern* (jan/2024 – mar/2025)
+
+- **Tech For Humans** — *Data Analyst Intern* (jan/2024 – mar/2025)  
   Extração, transformação e validação de dados, manutenção de pipelines no Databricks, relatórios e dashboards em Power BI.
-- **PETTEC** — *Membro* (abr/2022 – jul/2026)
+
+- **PETTEC** — *Membro* (abr/2022 – jul/2026)  
   Ensino de Python para graduandos, desenvolvimento de app mobile (React Native), software de diagramação e balança inteligente IoT (ESP32 + LoRa).
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -28,6 +35,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunacustoodio&layout=compact)
 
 🏆 [![trophy](https://github-profile-trophy.vercel.app/?username=brunacustoodio)](https://github.com/brunacustoodio)
+
+![Visitantes](https://komarev.com/ghpvc/?username=brunacustoodio&color=blue&style=flat)
 
 ## 📚 Projetos Acadêmicos
 
@@ -53,4 +62,4 @@
 - 📧 Email: [bruna.custo27@gmail.com](mailto:bruna.custo27@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/brunacustoodio](https://www.linkedin.com/in/brunacustoodio/)
 
-> "Sem dados, você é só mais uma pessoa com uma opinião." – W. Edwards Deming
+> "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original." – Albert Einstein
