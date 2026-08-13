@@ -3,11 +3,7 @@
 <img align="right" width="320" src="assets/banner.png" alt="Ilustração isométrica de laptops conectados a um servidor de dados" />
 <sub><a href="https://www.freepik.com">Designed by fullvector / Freepik</a></sub>
 
-```python
-print("Hello, world!")
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Bruna+Cust%C3%B3dio;Data+Analyst+%7C+BI+%7C+Python;Sempre+aprendendo+algo+novo!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&vCenter=true&width=440&height=50&lines=print(%22Hello%2C+world%21%22))
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruna.custo27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacustoodio/)
@@ -37,15 +33,6 @@ print("Hello, world!")
 - **Dev & Colaboração:** Git, Azure DevOps, Jira, React Native, IoT (ESP32, LoRa)
 - **Linguagens (projetos acadêmicos):** Java, C, C++
 
-## 📈 GitHub Analytics
-
-![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunacustoodio&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunacustoodio&layout=compact)
-
-🏆 [![trophy](https://github-profile-trophy.vercel.app/?username=brunacustoodio)](https://github.com/brunacustoodio)
-
-![Visitantes](https://komarev.com/ghpvc/?username=brunacustoodio&color=blue&style=flat)
 
 ## 📚 Projetos Acadêmicos
 
